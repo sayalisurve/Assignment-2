@@ -1,0 +1,41 @@
+html{
+	background: url('vitaminc.jpg') no-repeat center center fixed;
+	background-size: cover;
+}
+h2{
+	color: #FF0000;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #000000;
+  text-align: left;
+  padding: 8px;
+}
+th{
+	background-color: #FF0000
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+a:link{
+	text-decoration: none;
+}
+#one{
+    color: red;
+}
+#two{
+    color: blue;
+}
+#three{
+    color: red;
+}
+#four{
+    color: blue;
+}
